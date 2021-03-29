@@ -1,0 +1,18 @@
+title: Ventus Ally(Over Goofy)
+originalAuthor: Omniツ
+description: Custom Ventus Ally.
+assets:
+ - name: obj/P_EX030.mdlx
+ - name: obj/P_EX030.a.fm
+ - name: obj/P_EX030.mset
+ - name: obj/W_EX030.mdlx
+ - name: obj/W_EX030.mset
+ - name: obj/W_EX030.a.fm
+   method: copy
+   source:
+     - name: obj/P_EX030.mdlx
+     - name: obj/P_EX030.a.fm
+     - name: obj/P_EX030.mset
+     - name: obj/W_EX030.mdlx
+     - name: obj/W_EX030.mset
+     - name: obj/W_EX030.a.fm
