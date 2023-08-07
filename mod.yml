@@ -29,8 +29,8 @@ assets:
  - name: 03system.bin
    method: binarc
    source:
-  - name: 03system.bin/SkltList.yml
-    type: Sktl
-    method: listpatch
-    source:
-      - name: 03system.bin/SkltList.yml
+   - name: 03system.bin/SkltList.yml
+     type: list
+     method: copy
+     source:
+       - name: 03system.bin/SkltList.yml
