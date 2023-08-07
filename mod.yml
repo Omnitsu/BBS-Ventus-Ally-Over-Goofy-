@@ -1,15 +1,15 @@
 title: Ventus Ally(Over Goofy)
 originalAuthor: Omniツ
-description: Custom Ventus Ally.Discord server for any questions! https://discord.gg/YMV6Ea2
+description: Custom Ventus Ally.
 assets:
  - name: obj/P_EX030.mdlx
    method: copy
    source:
      - name: obj/P_EX030.mdlx
- - name: obj/P_EX030.a.fm
+ - name: obj/P_EX030.a.us
    method: copy
    source:
-     - name: obj/P_EX030.a.fm
+     - name: obj/P_EX030.a.us
  - name: obj/P_EX030.mset
    method: copy
    source:
@@ -22,7 +22,9 @@ assets:
    method: copy
    source:
      - name: obj/W_EX030.mset
- - name: obj/W_EX030.a.fm
+ - name: obj/W_EX030.a.us
    method: copy
    source:
-     - name: obj/W_EX030.a.fm
+     - name: obj/W_EX030.a.us
+ - name: 03system.bin/SkltList.yml
+   type: Sktl
