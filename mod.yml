@@ -30,3 +30,4 @@ assets:
    type: Sktl
    method: listpatch
    source:
+     - name: 03system.bin/SkltList.yml
