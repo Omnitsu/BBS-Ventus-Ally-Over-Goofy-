@@ -26,3 +26,8 @@ assets:
    method: copy
    source:
      - name: obj/W_EX030.a.us
+ - name: 03system.bin/SkltList.yml
+   type: Sktl
+   method: listpatch
+   source:
+     - name: 03system.bin/SkltList.yml
