@@ -18,14 +18,14 @@ assets:
    method: copy
    source:
      - name: obj/W_EX030.mdlx
+ - name: obj/W_EX030.mset
+   method: copy
+   source:
+     - name: obj/W_EX030.mset
+ - name: obj/W_EX030.a.us
    method: copy
    source:
      - name: obj/W_EX030.a.us
  - name: 03system.bin
    method: binarc
    source:
-   - name: 03system.bin/SkltList.yml
-     type: list
-     method: copy
-     source:
-       - name: 03system.bin/SkltList.yml
