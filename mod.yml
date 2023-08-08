@@ -18,11 +18,6 @@ assets:
    method: copy
    source:
      - name: obj/W_EX030.mdlx
- - name: obj/W_EX030.mset
-   method: copy
-   source:
-     - name: obj/W_EX030.mset
- - name: obj/W_EX030.a.us
    method: copy
    source:
      - name: obj/W_EX030.a.us
